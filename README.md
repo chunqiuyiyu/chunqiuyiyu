@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is chunqiuyiyu. I'm a frontend developer and love JavaScript and React.
+My name is chunqiuyiyu. I'm a frontend developer and love JavaScript & React.
