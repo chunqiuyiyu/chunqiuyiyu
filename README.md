@@ -1,5 +1,7 @@
 ### Hi there
 
+![](https://komarev.com/ghpvc/?username=chunqiuyiyu&style=flat-square&color=brightgreen)
+
 <!--
 **chunqiuyiyu/chunqiuyiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
